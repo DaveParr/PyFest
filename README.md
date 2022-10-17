@@ -22,4 +22,6 @@ By using this `artists` data set information can be associated to each artist de
 
 By using the `artists description` data sets a first pass of likley good artists can be made according to criteria set by the user e.g. genre, number of albums, associated acts, influences to create a `suggested artists` data set.
 
-By using the `suggested artists` data set you can curate a 
+By using the `suggested artists` data set you can curate a list of artists that might be a good fit for your music taste that you do not alredy know to create a `top songs` data set.
+
+By using the `top songs` data set and a connection to a music streaming service you can create a `top songs playlist` in the streaming service.
